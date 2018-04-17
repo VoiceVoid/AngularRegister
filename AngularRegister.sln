@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularRegister", "AngularRegister\AngularRegister.csproj", "{095F3106-725D-4C20-8D79-C2F83E87BAC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{095F3106-725D-4C20-8D79-C2F83E87BAC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{095F3106-725D-4C20-8D79-C2F83E87BAC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{095F3106-725D-4C20-8D79-C2F83E87BAC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{095F3106-725D-4C20-8D79-C2F83E87BAC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A53D6735-B9A3-4089-AACB-45FE989185B3}
+	EndGlobalSection
+EndGlobal
