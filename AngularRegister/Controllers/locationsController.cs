@@ -12,7 +12,7 @@ using AngularRegister.Models;
 
 namespace AngularRegister.Controllers
 {
-	[Authorize]
+	
     public class locationsController : ApiController
     {
         private ToshlEntities db = new ToshlEntities();

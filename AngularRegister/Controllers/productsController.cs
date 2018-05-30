@@ -14,7 +14,7 @@ using System.IO;
 
 namespace AngularRegister.Controllers
 {
-	[Authorize]
+	
     public class productsController : ApiController
     {
         private ToshlEntities db = new ToshlEntities();
